@@ -1,3 +1,7 @@
+# リポジトリ内の説明
+SandBox -> プロジェクト本体
+Document -> 放送内で使用したスライド
+
 # 初期化
 sudo apt-get update
 sudo apt-get upgrade
