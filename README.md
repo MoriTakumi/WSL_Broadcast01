@@ -29,9 +29,9 @@ sudo apt install libqt4-dev libqt4-opengl-dev libgtkglext1 libgtkglext1-dev
 # OpenCV本体のダウンロード
 cd ~/workspace
 
-git clone https://github.com/opencv/opencv.git
+sudo git clone https://github.com/opencv/opencv.git
 
-git clone https://github.com/opencv/opencv_contrib.git
+sudo git clone https://github.com/opencv/opencv_contrib.git
 
 cd opencv
 
